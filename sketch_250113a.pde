@@ -1,4 +1,4 @@
-// Globális változók
+//  változók
 float cubeY; // A kocka függőleges pozíciója
 int groundHeight = 175; // A "föld" magassága
 float[] data; // Magasságadatok a CSV-ből
