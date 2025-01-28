@@ -1,0 +1,54 @@
+
+Munka 
+= er? * elmozdulas
+jel w
+[w] joul J
+w = f* r
+[+ ]3 tipusa gyorsitas emeles rugo
+[+]gyorsitas
+ v2->v1
+jel Wgy
+1/2 mv^2?2 - 1/2 mv^?1
+a sebesseg megvaltozik
+Mozgasi energia EMG = 1/2* mv^2
+[+ ]emeles
+h2->h1
+jel Wem
+= m(h2-h1)
+A test megvaltoztatas
+emelesi munka jelemzese = m g h | tömeg, gravitacios ero (hol van) , helyzet
+ --Energia--
+Valtoztato kepesseg
+jel e
+helyzeti energia 
+Eh = mgh
+Energia megmaradas  : nem vesz el csak atvaltozik
+!!Eh = Wem!!
+!!Emg = Wgy!!
+[+]rugo
+l1->l1
+Jel  Wr
+1/2 D (l2)^2 - 1/2 D (l1)^1
+D = rugo allando
+Er rugalmasagi energia
+[D] = N/m
+Rugalmassag a test deformácijátol is fug
+[+] kapcsolat
+(haromszog )Emg = Wgy
+----
+haromszog  Er = Wr
+haromszog  Eh = Wem
+haromszog  Emg = Wgy
+haromszog  Emg = Wö
+----
+[+]Telesitmeny
+P =  W/t 
+[P] = Joul/s = watt
+---
+[+] Hatasfok
+= hasznosmunka/befejezett munka
+jele v 
+  = Wh / Wb
+
+energia megmaradas nincs surlodas
+
